@@ -15,6 +15,8 @@ Nun folgt der eigentliche Artikeltext. Bitte schreibe im Fließtext und gebe die
 
 *Tabelle 1: Dies ist die Tabellenunterschrift*
 
+Formatierungen wie **fett**, _kursiv_ und `inline code` sind erlaubt. Benutze bitte generell nur Formatierungen, die in diesem Dokument gezeigt werden.
+
 Hier folgt Blindtext: The quick brown fox jumps over the lazy dog *[[1](#quellen)]*. I pack my box with five dozen liquor jugs. Wolves exit quickly as fanges zoo chimps jabber *[[2](#quellen)]*. Victors flank gyp who mixed job quiz. Six big devils from Japan quickly forgot how to waltz. Oozing quivering jelly fish expectorated by mad hawk. Zwei Boxkämpfer jagen Eva quer durch Sylt. Sylvia wagt quick den Jux bei Pforzheim. Fixquairk vom weibtyp geschlejnzt. Oh, welch Zynismus, quiekte Xavers jadegrüne Bratpfanne.
 
 ## Das ist eine Zwischenüberschrift

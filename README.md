@@ -1,16 +1,5 @@
 # ***Java** aktuell* Artikelvorlage im Markdown Format
 
-> [!WARNING]
-> *Diese Vorlage ist noch im Beta-Stadium!*
->
-> Bevor du sie benutzt, spreche das bitte mit Marcus Fihlon ab. Möglichkeiten zur Kontaktaufnahme:
->
-> * E-Mail: [marcus@fihlon.swiss](mailto:marcus@fihlon.swiss)
-> * Matrix: [@mcpringle:matrix.org](https://matrix.to/#/@mcpringle:matrix.org)
-> * Mastodon: [@McPringle@fosstodon.org](https://fosstodon.org/@McPringle)
->
-> *Vielen Dank!*
-
 ## Informationen für Autoren
 
 * Die eigentliche Vorlage befindet sich in der Datei [artikel.md](artikel.md). Alle anderen Dateien kannst du ignorieren.

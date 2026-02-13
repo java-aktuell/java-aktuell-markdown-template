@@ -6,7 +6,7 @@
 * Benutze bitte keine Funktionen von Markdown, die nicht bereits in der [Vorlage](artikel.md) gezeigt werden! Vermisst du etwas, erstelle bitte einen [Issue auf GitHub](https://github.com/java-aktuell/java-aktuell-markdown-template/issues) oder nehme mit [Marcus Fihlon](mailto:marcus@fihlon.swiss) Kontakt auf.
 * Wenn du zusammen mit einem oder mehreren anderen Autoren am Artikel arbeitest, so kannst du diese in Zeile 3 mit Semikolon `;` getrennt aufführen. Bitte nicht auf mehrere Zeilen verteilen!
 * Wenn du möchtest, kannst du für deine Bilder ein eigenes Verzeichnis anlegen. Passe dann den Link zum Einbetten entsprechend an. Verwende immer relative Verzeichnisangaben, niemals absolute.
-* Reiche deinen fertigen Artikel als Word-Datei per E-Mail bei der Redaktionsleiterin [Lisa Damerow](mailto:lisa.damerow@doag.org) ein. Bitte sende alle verwendeten Bilder separat mit (in Word eingebettet ist nicht ausreichend). Achte darauf, dass Dateinamen und Bildreferenzen eindeutig zuordenbar sind.
+* Reiche deinen fertigen Artikel als Word-Datei per E-Mail bei der [Redaktion](mailto:redaktion@java-aktuell.eu) ein. Bitte sende alle verwendeten Bilder separat mit (in Word eingebettet ist nicht ausreichend). Achte darauf, dass Dateinamen und Bildreferenzen eindeutig zuordenbar sind.
 * Falls es Probleme bei der Erzeugung der Word-Datei gibt oder etwas nicht wie erwartet funktioniert, kannst du dich gerne an [Marcus Fihlon](https://www.fihlon.swiss/) wenden.
 
 
